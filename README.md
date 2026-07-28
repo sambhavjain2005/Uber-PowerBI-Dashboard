@@ -37,7 +37,7 @@ Data cleaning and transformation performed using Power Query:
 - Payment method distribution
 - Cancellation analysis
 - Interactive filters for vehicle type, month, and quarter
-- ![Uber Dashboard](uber_dashboard.png)
+- ![Uber Dashboard](dashboard.png)
 
 ## 📐 Power BI Skills Used
 - Power Query
